@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=sdf, initial-scale=1.0">
+    <title>Project</title>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+</head>
+<body>
+    <a-scene>
+      <a-sky color="#dafef3"></a-sky>
+        <a-text position="5 0.5 -3" rotation="0 45 0" color="#4CC3D9" text="dasd"></a-text>
+        <a-plane position="0 0 -4" rotation="-90 0 0" width="50" height="50" color="#468e31" ></a-plane>
+        <a-entity gltf-model="./dinosaur/scene1.gltf" scale="" position="9.50686 2.52636 4.84697"></a-entity>
+        <a-entity gltf-model="./dinosaur3/scene.gltf" scale="0.05 0.05 0.05" position="1.49761 26.27357 8.95524"></a-entity>
+        <a-entity gltf-model="./dinosaur2/scene.gltf" scale="0.05 0.05 0.05" position="1.507 1.5415 8.50006"></a-entity>
+        <a-entity gltf-model="./t-rex_dinosaur/scene.gltf" scale="2 2 2" position="-2.15007 0.34334 -3.87797"></a-entity>
+        <a-entity gltf-model="./stegosaur_dinosaur/scene.gltf" scale="0.001 0.001 0.001" position="-1.15251 -0.03255 4.847"></a-entity>
+        <a-entity gltf-model="./triceratops_dinosaur/scene.gltf" scale="" position="-8.10118 0.06426 -1.19208"></a-entity>
+        <a-entity gltf-model="./flying_pteradactal_dinosaur/scene2.gltf" scale="1.5 1.5 1.5" position="1 5.18013 -0.802" rotation="90 0 0"></a-entity>
+        <a-camera>
+          <a-text value="Welcome to" animation="property: position; to: -0.5 1 -1.5; dur: 5000; easing: linear; loop: false" animation__2="property: rotation; to: 0 180 90; dur: 5000"  text="align: center; color: #000000;font: exo2bold">
+          </a-text>
+          <a-text value="Dinosaur" animation="delay: 3000; property: position; to: -0.5 1 -1.5; dur: 10000; easing: linear; loop: false" animation__2="delay: 5000; property: rotation; to: 0 180 90; dur: 5000" text="align: center; color: #000000; font: exo2bold">
+          </a-text>
+    </a-camera>
+       
+    </a-scene>
+    
+      
+</body>
+</html>

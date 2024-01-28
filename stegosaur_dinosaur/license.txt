@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stegosaur dinosaur
+* source:	https://sketchfab.com/3d-models/stegosaur-dinosaur-34e641dcf62c437c844156d7ad2e68b8
+* author:	wojciechmiedziocha (https://sketchfab.com/wojciechmiedziocha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stegosaur dinosaur" (https://sketchfab.com/3d-models/stegosaur-dinosaur-34e641dcf62c437c844156d7ad2e68b8) by wojciechmiedziocha (https://sketchfab.com/wojciechmiedziocha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
